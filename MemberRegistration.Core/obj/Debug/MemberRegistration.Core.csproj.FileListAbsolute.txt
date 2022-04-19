@@ -1,0 +1,6 @@
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\bin\Debug\MemberRegistration.Core.dll
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\bin\Debug\MemberRegistration.Core.pdb
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\obj\Debug\MemberRegistration.Core.csproj.AssemblyReference.cache
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\obj\Debug\MemberRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\obj\Debug\MemberRegistration.Core.dll
+C:\Users\ademk\source\repos\MemberRegistration\MemberRegistration.Core\obj\Debug\MemberRegistration.Core.pdb
